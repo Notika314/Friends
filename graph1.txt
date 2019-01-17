@@ -1,0 +1,43 @@
+22
+natalia|y|lnpu
+sam|y|rutgers
+jane|y|rutgers
+michele|y|cornell
+olga|y|lnpu
+sergei|y|rutgers
+kaitlin|y|rutgers
+katia|y|lnpu
+ivanka|y|lnpu
+notika|y|lnpu
+taras|y|lnpu
+murosia|y|lnpu
+ricardo|y|penn state
+samir|n
+aparna|y|rutgers
+ming|y|penn state
+nick|y|penn state
+bob|y|rutgers
+heather|y|penn state
+rachel|n
+rich|y|ucla
+tom|y|ucla
+sam|jane
+jane|bob
+jane|kaitlin
+kaitlin|nick
+bob|samir
+sergei|aparna
+samir|aparna
+aparna|ricardo
+nick|ricardo
+ivanka|natalia
+natalia|katia
+olga|murosia
+olga|natalia
+ivanka|taras
+natalia|notika
+ming|nick
+heather|nick
+michele|rachel
+michele|tom
+tom|rich
